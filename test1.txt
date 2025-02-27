@@ -1,3 +1,2 @@
 Nguyen et al. (2021) explored AI-based virtual fitness coaches that use real-time data analysis for workout recommendations.
-
-Chowdhury et al. (2020) studied the impact of AI-driven fitness tracking apps on user engagement and health improvement.
+changed
